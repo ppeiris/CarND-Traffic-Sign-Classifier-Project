@@ -4,3 +4,5 @@ data
 models
 *.swp
 *.p
+checkpoint
+traffic_sign_model*.*
